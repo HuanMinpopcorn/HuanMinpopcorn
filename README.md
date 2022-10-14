@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuanMinpopcorn
-- 👀 I’m interested in Robotic
-- 🌱 I’m currently learning mechanical engineering
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently a Master studetn and study mechanical engineering in JHU.
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me minhuanjane@gmail.com
 

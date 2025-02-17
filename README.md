@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @HuanMinpopcorn
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently a Master studetn and study mechanical engineering in JHU.
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me minhuanjane@gmail.com
+- 🌱 I'm working as research assitance in NCSU HIER lab
+- I'm focusing on Leg Robot and humaniod Robot
+- I'm strengh on ROS2, Mujoco and Gazebo
+- 
 
 <!---
 HuanMinpopcorn/HuanMinpopcorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

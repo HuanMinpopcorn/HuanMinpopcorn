@@ -3,8 +3,7 @@
 ## 🚀 About Me
 - 🤖 Passionate about **Robotics**
 - 📚 Research Assistant at **NCSU NREL Lab**
-- 🏗️ Specializing in **Legged Robots & Humanoid Robots**
-- 🎓 **Master of Science in Robotics** - Johns Hopkins University, 2023 (Track: Optimal Control & Path Planning)  
+- 🎓 **Master of Science in Robotics** - Johns Hopkins University, 2023 
 - 🎓 **B.S. in Mechanical Engineering** - Rutgers University, 2021
 
 ## 🔨 Technical Skills

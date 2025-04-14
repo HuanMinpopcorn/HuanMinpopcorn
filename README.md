@@ -8,9 +8,10 @@
 
 ## 🔨 Technical Skills
 - **Software & Tools**: MuJoCo, Pinocchio, ROS1/2, Gazebo, Python, C++, MATLAB, SolidWorks, Casadi, OSQP
-- **Perception**: SLAM, Localization, Computer Vision, Sensor Fusion, Point Cloud Processing (PCL), Deep Neural Networks
-- **Path Planning**: A*, Dijkstra, RRT, PRM, Trajectory Optimization, Motion Planning in Dynamic Environments
-- **Control Algorithms**: PID, Model Predictive Control (MPC), Impedance Control, Whole-Body Control (WBC), Optimal Control, Reinforcement Learning, Centroidal Dynamic Control
+- **Perception**: SLAM, Localization, Computer Vision, Sensor Fusion, Monte Carlo localization(MCL) , Deep Neural Networks,
+- **Path Planning**: A*, Dijkstra, RRT, PRM, Potential Field,
+- **Control Algorithms**: PID, Model Predictive Control (MPC), Impedance Control, Whole-Body Control (WBC), Optimal Control, Centroidal Dynamic Control, Dynamic Programming
+- **RL Algorithms**: Q-Learning, DQN, Actor-Critic
 
 ## 💼 Work Experience
 - **Research Assistant - Hybrid Intelligent Experimental Robotics (HIER) Lab, NC State University** 
